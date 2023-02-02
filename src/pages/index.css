@@ -1,0 +1,277 @@
+.section1
+{
+    background: url(../images/main.jpg);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.img{
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 2vw;
+    margin: 2vw;
+    width: 30vw;
+}
+
+.overlayhead
+{
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    background-color: rgba(0, 42, 90, 0.75);
+}
+.headingmain{
+    text-align: left;
+    padding: 8vw 8vw 6vw 8vw;
+    color: white;
+    margin-top: 1.5vw;
+}
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    display: flex;
+    padding: 3vw 0vw;
+    justify-content: center;
+}
+
+.gmap_canvas {
+    position: relative;
+    overflow:hidden;
+    background:none!important;
+    width:80vw;
+    height:45vw;
+}
+
+.gmap_canvas:hover{
+    box-shadow: 0 0 2vw rgba(0, 42, 90, 0.75);
+
+}
+
+.gmap_iframe {
+    position: relative;
+    width:80vw!important;
+    height:45vw!important;
+}
+
+.sec{
+    padding-bottom: 3.5vw;
+    background-color: rgba(67, 155, 255, 0.3);
+}
+.sec2{
+    background-color: rgb(13, 35, 70);
+    color: white;
+}
+#gmail:link{
+    color: white;
+}
+#gmail:visited{
+    color: white;
+}
+#gmail:hover{
+    color: rgb(223, 243, 255);
+    font-weight: 500;
+}
+
+.section2{
+    display: flex;
+  justify-content: center;
+}
+
+.head1{
+    font-size: 2.8vw;
+    font-weight: 700;
+    margin: 0;
+    padding-top: 2.7vw;
+    display: flex;
+    justify-content: center;
+}
+
+.head2{
+    font-size: 2.8vw;
+    font-weight: 700;
+    margin: 0;
+    padding-top: 2.7vw;
+    display: flex;
+    justify-content: left;
+}
+
+.date{
+    font-size: 1.65vw;
+    font-weight: 600;
+    margin: 0;
+    padding: 2.25vw 0 1vw 0;
+    display: flex;
+    justify-content: left;
+}
+
+.headpara{
+    font-size: 1.7vw;
+    font-weight: 400;
+    padding: 0.25vw 0vw 1vw 0vw;
+    display: flex;
+    justify-content: left;
+}
+
+.head3{
+    font-size: 1.75vw;
+    font-weight: 700;
+    margin: 0;
+    padding: 2vw 7vw ;
+    display: flex;
+    color: rgb(13, 35, 70);
+    justify-content: left;
+}
+
+.divi{
+    padding: 0.75vw 8vw;
+    margin: 0;
+    font-size: 1.5vw;
+}
+
+.buttonhead1{
+    padding: 1.4vw 3vw;
+    border: none;
+    border-radius: 1vw;
+    margin: 1vw;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(13, 35, 70);
+}
+
+.buttonhead1:hover{
+    box-shadow: 0vw 0vw 1vw rgb(125, 186, 255);
+}
+
+.buttonhead{
+    padding: 1.5vw 3vw;
+    border: none;
+    font-size: 1.4vw;
+    border-radius: 1vw;
+    margin-top: 0.5vw;
+    margin-right: 1vw;
+    font-weight: 600;
+    background-color: white;
+}
+
+.buttonhead:hover{
+    box-shadow: 0vw 0vw 1vw rgb(125, 186, 255);
+}
+
+.divisions{
+    background-color: rgba(19, 112, 219, 0.37);
+    padding: 4vw;
+    position: relative;
+    margin: 4vw 0vw;
+    border-radius: 3vw;
+}
+
+.divisions:hover{
+    box-shadow: 0vw 0vw 2vw rgba(0, 58, 124, 0.8);
+}
+
+.headp{
+    font-size: 2.5vw;
+    margin: 0vw;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+}
+
+.images{
+    margin: auto;
+    text-align:center;
+}
+
+.divpara{
+    font-weight: 400;
+    text-align: center;
+}
+
+#clickhere:link{
+    color:black;
+}
+
+#clickhere:visited{
+    color:black;
+}
+
+#clickhere:hover{
+    color:rgb(0, 7, 46);
+    font-weight: 600;
+}
+
+.section3
+{
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    padding: 2vw 8vw;
+
+}
+
+.section
+{
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    height: 15.5vw;
+}
+.overlay2
+{
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    height: 42.5vw;
+    background-color: rgba(0, 42, 90, 0.75);
+}
+.heading2{
+    text-align: center;
+    color: white;
+    margin-top: 6vw;
+    font-size: 4vw;
+    font-weight: 600;
+}
+
+.paragraphs{
+    padding: 0 7vw;
+    margin: 3vw 0;
+}
+
+#accepted{
+    background-image: url(../images/accepted.jpg);
+}
+
+#committees{
+    background-image: url(../images/committees.jpg);
+}
+
+#callpaper{
+    background-image: url(../images/callforpaper.jpg);
+}
+
+#impdate{
+    background-image: url(../images/dates.jpg);
+}
+
+#keynote{
+    background-image: url(../images/keynote.jpg);
+}
+
+#registration{
+    background-image: url(../images/registration.jpg);
+}
+
+#publication{
+    background-image: url(../images/publications.jpg);
+}
+
+#partners{
+    background-image: url(../images/partners.jpg);
+}
+
+#download{
+    background-image: url(../images/downloads.jpg);
+}

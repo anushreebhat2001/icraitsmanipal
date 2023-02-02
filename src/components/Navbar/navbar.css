@@ -1,0 +1,8 @@
+#logo {
+    height: 5vw;
+}
+@media only screen and (max-width: 768px) {
+    #logo {
+        height: 4.5vw;
+    }
+}
