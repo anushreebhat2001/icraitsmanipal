@@ -85,6 +85,7 @@
     font-weight: 700;
     margin: 0;
     padding-top: 2.7vw;
+    padding-bottom: 2vw;
     display: flex;
     justify-content: center;
 }
@@ -126,9 +127,10 @@
 }
 
 .divi{
-    padding: 0.75vw 8vw;
+    padding: 1vw 8vw;
     margin: 0;
-    font-size: 1.5vw;
+    font-weight: 400;
+    font-size: 1.25vw;
 }
 
 .buttonhead1{
@@ -187,6 +189,7 @@
 
 .divpara{
     font-weight: 400;
+    font-size: 1.25vw;
     text-align: center;
 }
 

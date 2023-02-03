@@ -44,7 +44,8 @@ const Home = () => {
       <div className = 'section21'>
             <div className = 'sec'>
             <h3 className='head1'>About Conference</h3>
-            <p className='divi'>ICAICT 2022 is a non-profit conference and it will provide an opportunity to the practicing engineers, academicians and researchers to meet in a forum to discuss various issues and its future direction in the field of Computing and Inteligent Engineering and Technologies. The conference aims to put together the experts from the relevant areas to disseminate their knowledge and experience for the relevant future research scope.
+            <p className='divi'>The 2023 International conference on recent advances in information technology for sustainable development (ICRAITSD-2023) is unique and specially designed in the field of Engineering Science, Design Aesthetics, and Applied Science with the scope of multidisciplinary research. It is aimed at a technological solution for the socially relevant and economically impactful strategies for the well-being of humanity, sustainable nature, and ecological balance. The need of the day is given due importance to sustainable and self-reliant solutions. 
+            </p><p className='divi'>The conference provides a unique platform for researchers, technology solution seekers, experts and entrepreneurs, faculties, and students to present, interact, and network with peers. It acts as a forum to discuss and nurture ideas for developing products and innovative solutions for the betterment of mankind. This conference aims to bridge the gap between theory and practice in all areas of engineering and science to solve the problems of social and community importance. 
             </p>
             </div>
       </div>

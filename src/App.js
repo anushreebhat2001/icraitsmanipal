@@ -16,7 +16,7 @@ import Publication from "./pages/Publication";
 
 function App() {
   return (
-    <Router>
+    <Router basename="icraitsmanipal">
       <Navbar/>
       <Routes> 
         <Route path="/" element={<Home/>} />
