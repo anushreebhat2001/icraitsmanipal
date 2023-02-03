@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/icraitsmanipal/static/css/main.7a28daae.css",
-    "main.js": "/icraitsmanipal/static/js/main.f1f64339.js",
+    "main.js": "/icraitsmanipal/static/js/main.67eec7db.js",
     "static/js/787.0adfd422.chunk.js": "/icraitsmanipal/static/js/787.0adfd422.chunk.js",
     "static/media/publications.jpg": "/icraitsmanipal/static/media/publications.8359d852b8ce343fc1aa.jpg",
     "static/media/main.jpg": "/icraitsmanipal/static/media/main.b3293d20d63a65ad178d.jpg",
@@ -18,11 +18,11 @@
     "static/media/mit.png": "/icraitsmanipal/static/media/mit.157e5bf97474fa5c941a.png",
     "index.html": "/icraitsmanipal/index.html",
     "main.7a28daae.css.map": "/icraitsmanipal/static/css/main.7a28daae.css.map",
-    "main.f1f64339.js.map": "/icraitsmanipal/static/js/main.f1f64339.js.map",
+    "main.67eec7db.js.map": "/icraitsmanipal/static/js/main.67eec7db.js.map",
     "787.0adfd422.chunk.js.map": "/icraitsmanipal/static/js/787.0adfd422.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a28daae.css",
-    "static/js/main.f1f64339.js"
+    "static/js/main.67eec7db.js"
   ]
 }
