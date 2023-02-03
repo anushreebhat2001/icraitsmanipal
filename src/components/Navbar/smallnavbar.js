@@ -64,40 +64,34 @@ export function SmallNavbar () {
             <MenuToggle isOpen={isOpen} toggle={() => setOpen(!isOpen)} />
             {isOpen && <NavMenu> Menu
                 <NavLink>
-                    <Link href="/">Home </Link>
+                    <Link href="/icraitsmanipal/">Home </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/#white">About </Link>
+                    <Link href="/icraitsmanipal/Committees">Committee </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/Forum">Forum </Link>
+                    <Link href="/icraitsmanipal/CallforPapers">CallforPapers </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/Academics">Academic </Link>
+                    <Link href="/icraitsmanipal/ImportantDates">Important Dates </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/Faculty">Faculty </Link>
+                    <Link href="/icraitsmanipal/Keynote">Keynote </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/News">News </Link>
+                    <Link href="/icraitsmanipal/AcceptedPapers">Accepted Papers </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/Events">Events </Link>
+                    <Link href="/icraitsmanipal/Registration">Registration </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/research">Research </Link>
+                    <Link href="/icraitsmanipal/Publication">Publication </Link>
                 </NavLink>
                 <NavLink>
-                    <Link href="/qp">Question Papers </Link> 
+                    <Link href="/icraitsmanipal/Downloads">Downloads </Link> 
                 </NavLink>
                 <NavLink>
-                    <Link href="/placements">Placements </Link>
-                </NavLink>
-                <NavLink>
-                    <Link href="/contact">Contacts</Link>
-                </NavLink>
-                <NavLink>
-                    <Link href="/Facilities">Facilities</Link>
+                    <Link href="/icraitsmanipal/Partners">Partners </Link>
                 </NavLink>
             </NavMenu> }
            </Nav>
